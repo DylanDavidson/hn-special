@@ -5,6 +5,12 @@ The available features can be enabled or disabled based on your personal prefere
 
 You can install this extension [from the Chrome Web Store](https://chrome.google.com/webstore/detail/hn-special-an-addition-to/cchaceegbflphbdpfocjalgjhjoahiia).
 
+
+## This Fork
+This fork adds some feautures that were left off of the chrome extension, since it is no longer actively contributed to.
+Currently it adds:
+ - Fix for infinite scrolling. [#59] (https://github.com/gabrielecirulli/hn-special/issues/59) Credit to [aaron7] (https://github.com/Aaron7/hn-special/commit/bcf0e1fbe565d16102dfdeeb7b56acc0397e6ae8).
+
 ## Features
  - A modern looking visual theme
  - Infinite scrolling
