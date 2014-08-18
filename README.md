@@ -3,8 +3,18 @@ A theme and extension for [Hacker News](http://news.ycombinator.com) that improv
 
 The available features can be enabled or disabled based on your personal preference. New feature contributions are welcome!
 
-You can install this extension [from the Chrome Web Store](https://chrome.google.com/webstore/detail/hn-special-an-addition-to/cchaceegbflphbdpfocjalgjhjoahiia).
+You can install the original extension [from the Chrome Web Store](https://chrome.google.com/webstore/detail/hn-special-an-addition-to/cchaceegbflphbdpfocjalgjhjoahiia).
 
+You can install this fork by cloning the repository and using the extension unpacked.
+Open up your terminal, go to the directory you want the extension stored, and run the following:
+```
+git clone git@github.com:DylanDavidson/hn-special.git
+```
+Then go into Chrome and type `chrome://extensions/` into the search bar.
+
+From here click `Load unpacked extension...` and find the folder that you cloned this repo to and open it.
+
+Now this fork of the `hn-special` extension should be running! Be sure to disable the original extension if you have it so they don't clash.
 
 ## This Fork
 This fork adds some feautures that were left off of the chrome extension, since it is no longer actively contributed to.
