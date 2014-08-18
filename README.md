@@ -10,6 +10,7 @@ You can install this extension [from the Chrome Web Store](https://chrome.google
 This fork adds some feautures that were left off of the chrome extension, since it is no longer actively contributed to.
 Currently it adds:
  - Fix for infinite scrolling. [#59] (https://github.com/gabrielecirulli/hn-special/issues/59) Credit to [aaron7] (https://github.com/Aaron7/hn-special/commit/bcf0e1fbe565d16102dfdeeb7b56acc0397e6ae8).
+ - Highlighting of post author when in comments. [Example] (https://drive.google.com/file/d/0BzmKZayMiPWNTVdIeVlubHBjQ0k/edit?usp=sharing)
 
 ## Features
  - A modern looking visual theme
